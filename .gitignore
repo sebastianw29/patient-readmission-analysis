@@ -1,0 +1,11 @@
+.venv/
+.venv-1/
+stats.pkl
+diabetic_data.csv
+IDS_mapping.csv
+fig_dashboard.png
+fig_key_predictors.png
+Patient_Readmission_Risk_Analysis_REAL.xlsx
+__pycache__/
+*.pyc
+.vscode/
