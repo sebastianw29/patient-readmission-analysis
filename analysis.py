@@ -82,7 +82,7 @@ race_stats['mean'] *= 100
 inpat_stats = df.groupby('prior_inpatient')['readmit_30'].agg(['mean','count'])
 inpat_stats['mean'] *= 100
 
-# ── 5. COLOURS ───────────────────────────────────────────────────────────────
+# ── 5. COLORS ───────────────────────────────────────────────────────────────
 C_NAVY='#1E3A5F'; C_BLUE='#2563EB'; C_RED='#DC2626'
 C_AMBER='#D97706'; C_GREEN='#059669'; C_LIGHT='#EFF6FF'; C_SLATE='#94A3B8'
 
